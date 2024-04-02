@@ -1,6 +1,6 @@
 {
   "name": "Zayne的私服客户端",
-  "author": "Zayne Wang",
+  "author": "v1.2",
   "version": "1.0",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/zayne-wang/minecraft-client/main",
@@ -14,7 +14,15 @@
       "hash": "d0f11243f79c071416bbcee781ae93eb57a0283c"
     },
     {
+      "path": "mods/appliedenergistics2-fabric-15.0.24.jar",
+      "hash": "397a694bc97c8b45ca20f6f268da1c93af9f0b4e"
+    },
+    {
       "path": "mods/architectury-9.2.14-fabric.jar",
+      "hash": "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d"
+    },
+    {
+      "path": "mods/architectury-9.2.14-fabric.jar.disabled",
       "hash": "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d"
     },
     {
@@ -28,6 +36,14 @@
     {
       "path": "mods/create-fabric-0.5.1-f-build.1335+mc1.20.1.jar",
       "hash": "008a0169efbaca4a144af7467ca659a4011c30f4"
+    },
+    {
+      "path": "mods/create-structures-0.1.1-1.20.1-FABRIC.jar",
+      "hash": "b0adac5af2734590d57e86a270a343abb74dfed4"
+    },
+    {
+      "path": "mods/createaddition-1.20.1-1.0.0b.jar",
+      "hash": "2b1dcea36abb90ec58a1edd73a22f311e849f9a6"
     },
     {
       "path": "mods/DynamicSurroundings-Fabric-1.20.1-0.3.3.jar",
@@ -92,6 +108,10 @@
     {
       "path": "mods/Searchables-fabric-1.20.1-1.0.2.jar",
       "hash": "72f8ae2a31ccf95ed5d119abb8c3bcd174b63398"
+    },
+    {
+      "path": "mods/Steam_Rails-1.5.3+fabric-mc1.20.1.jar",
+      "hash": "90cd0296507dde0b0260cd24b33e042cfc990be9"
     },
     {
       "path": "mods/veinmining-fabric-1.4.0+1.20.1.jar",
