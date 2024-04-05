@@ -1,7 +1,7 @@
 {
   "name": "Zayne的私服客户端",
-  "author": "1.4",
-  "version": "1.0",
+  "author": "Zayne Wang",
+  "version": "1.4",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/zayne-wang/minecraft-client/main",
   "files": [
@@ -132,6 +132,10 @@
     {
       "path": "mods/Xaeros_Minimap_24.0.3_Fabric_1.20.jar",
       "hash": "62e0af29ffd984cbe5453ea2c4f64251c4c0f5fb"
+    },
+    {
+      "path": "resourcepacks/Masa Family Bucket Translation Pack v1.0.3.zip",
+      "hash": "b3fb1435ab71ce482262b5a837225e396a78e300"
     }
   ],
   "addons": [
