@@ -120,7 +120,7 @@
     "mainRenderingToggle": {
       "enabled": true,
       "hotkey": {
-        "keys": ""
+        "keys": "H"
       }
     },
     "openConfigGui": {
@@ -145,7 +145,7 @@
     "biomeOverlayRangeVertical": 0,
     "blockGridOverlayRadius": 32,
     "coordinateFormat": "x: %.1f y: %.1f z: %.1f",
-    "dateFormatReal": "yyyy-MM-dd HH:mm",
+    "dateFormatReal": "yyyy-MM-dd HH:mm:ss",
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}",
     "fontScale": 0.8,
     "lightLevelMarkerSize": 0.84,
@@ -172,7 +172,7 @@
     "infoBlockBreakSpeed": false,
     "infoBlockInChunk": false,
     "infoBlockPosition": true,
-    "infoBlockProperties": false,
+    "infoBlockProperties": true,
     "infoChunkPosition": false,
     "infoChunkSections": false,
     "infoChunkSectionsLine": false,
@@ -187,7 +187,7 @@
     "infoEntityRegistryName": false,
     "infoFacing": true,
     "infoFurnaceXp": false,
-    "infoFPS": true,
+    "infoFPS": false,
     "infoHoneyLevel": false,
     "infoHorseSpeed": false,
     "infoHorseJump": false,
@@ -203,7 +203,7 @@
     "infoRegionFile": false,
     "infoRotationPitch": false,
     "infoRotationYaw": false,
-    "infoServerTPS": false,
+    "infoServerTPS": true,
     "infoSlimeChunk": false,
     "infoSpeed": false,
     "infoSpeedAxis": false,
@@ -211,7 +211,7 @@
     "infoSprinting": false,
     "infoTileEntities": false,
     "infoTimeDayModulo": false,
-    "infoTimeIRL": false,
+    "infoTimeIRL": true,
     "infoTimeTotalModulo": false,
     "infoTimeWorld": false,
     "infoWorldTimeFormatted": true

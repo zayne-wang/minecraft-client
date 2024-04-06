@@ -1,105 +1,113 @@
 {
   "name": "Zayne的私服客户端",
   "author": "Zayne Wang",
-  "version": "1.4",
+  "version": "1.5",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/zayne-wang/minecraft-client/main",
   "files": [
     {
       "path": "config/minihud.json",
-      "hash": "284eea659452154301575f60f9191baa1bb8992c"
+      "hash": "6e628c043463efeee4c23eb3bbf4b797f8d14fb5"
     },
     {
-      "path": "mods/appleskin-fabric-mc1.20.1-2.5.1.jar",
-      "hash": "d0f11243f79c071416bbcee781ae93eb57a0283c"
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "hash": "81919356f84eab14258db98924b66c3c38e372b1"
     },
     {
-      "path": "mods/appliedenergistics2-fabric-15.1.0.jar",
-      "hash": "277d63e2585ef7a1f78fea2c39e34ade0c38d745"
+      "path": "mods/appliedenergistics2-forge-15.1.0.jar",
+      "hash": "709ea0b21ed89dd7fe32614616c1264fa64d7a7d"
     },
     {
-      "path": "mods/architectury-9.2.14-fabric.jar",
-      "hash": "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d"
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
     },
     {
-      "path": "mods/cloth-config-11.1.118-fabric.jar",
-      "hash": "f669f899d707b9e9acf1c239b0ae6b2c8be95361"
+      "path": "mods/Connector-1.0.0-beta.40+1.20.1.jar",
+      "hash": "e87d6392fcc7825d0602af4e986c8530eabccd2e"
     },
     {
-      "path": "mods/Controlling-fabric-1.20.1-12.0.2.jar",
-      "hash": "8a61ca1600e33c73598530f1e208bb07081fdcd6"
+      "path": "mods/ConnectorExtras-1.10.0+1.20.1.jar",
+      "hash": "0a965305647847e160d0130eef071850ab395dd0"
     },
     {
-      "path": "mods/create-fabric-0.5.1-f-build.1335+mc1.20.1.jar",
-      "hash": "008a0169efbaca4a144af7467ca659a4011c30f4"
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "hash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
     },
     {
-      "path": "mods/create-structures-0.1.1-1.20.1-FABRIC.jar",
-      "hash": "b0adac5af2734590d57e86a270a343abb74dfed4"
+      "path": "mods/create-1.20.1-0.5.1.f.jar",
+      "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
     },
     {
-      "path": "mods/createaddition-1.20.1-1.0.0b.jar",
-      "hash": "2b1dcea36abb90ec58a1edd73a22f311e849f9a6"
+      "path": "mods/create-structures-0.1.1-1.20.1-FORGE.jar",
+      "hash": "6bd0a029f7ae4e400b55f8355f73e69dc31bd1a8"
+    },
+    {
+      "path": "mods/createaddition-1.20.1-1.2.2.jar",
+      "hash": "0869d45f0d94ab45f1f7b9987990890117407dce"
     },
     {
       "path": "mods/DynamicSurroundings-Fabric-1.20.1-0.3.3.jar",
       "hash": "71d6ba63d3f767da2dee09e5be38314decff9379"
     },
     {
-      "path": "mods/fabric-api-0.92.0+1.20.1.jar",
-      "hash": "3373057a5049e311557f8c9494b35ef2df88d984"
+      "path": "mods/fabric-api-0.92.0+1.11.3+1.20.1.jar",
+      "hash": "06d86409adeb6d8f677e862e6704df625ecd9ce6"
     },
     {
-      "path": "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
-      "hash": "d8a8a5a4f1289e9b4d65f9551c32fbdf56b4f162"
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
     },
     {
-      "path": "mods/indium-1.0.30+mc1.20.4.jar",
-      "hash": "b24233f29c0ce4802c61ea8998e01e6e4580ae60"
+      "path": "mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+      "hash": "2ba4a6149362dbbf81288f393f0022ee9fb07302"
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.20-1.10.10.jar",
-      "hash": "10f1bdc53f23261078b0754b5d7976d85f739497"
+      "path": "mods/InventoryProfilesNext-forge-1.20-1.10.10.jar",
+      "hash": "4741ea1fd6d1593b693a389b7c6e1e47690ac3ad"
     },
     {
-      "path": "mods/iris-mc1.20.1-1.6.17.jar",
-      "hash": "daaa0a952273301117d3dc42bde68c6f1f60b318"
+      "path": "mods/Jade-1.20.1-forge-11.8.0.jar",
+      "hash": "bc7eca506af9e754b6283af15ba5a35532a96683"
     },
     {
-      "path": "mods/Jade-1.20-fabric-11.8.0.jar",
-      "hash": "49b63e1c3305d946f45a50134f63698d8c7b0ec0"
+      "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar",
+      "hash": "74b567a2b23bf34cd37ee4c02059318f8cc702d7"
     },
     {
-      "path": "mods/JadeAddons-1.20.1-fabric-5.2.3.jar",
-      "hash": "3ce9c570f522711718221041607204a0affb2350"
+      "path": "mods/jecharacters-1.20.1-forge-4.5.9.jar",
+      "hash": "39e7660eb1942e52eedf45bb2b72d5d3187a7454"
     },
     {
-      "path": "mods/jecharacters-1.20.1-fabric-4.5.6.jar",
-      "hash": "28977e8a82422dc7c2a4e768eb9b7deac24b076b"
+      "path": "mods/jei-1.20.1-forge-15.3.0.4.jar",
+      "hash": "1a431d34991d51998f9971c4291bac2d58eaa154"
     },
     {
-      "path": "mods/jei-1.20.1-fabric-15.3.0.4.jar",
-      "hash": "d5e29fead4928513444b6005968fb6a6aa6aa8e8"
+      "path": "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "hash": "2747c58f439c37a01139d35cab59ca1a54114009"
     },
     {
-      "path": "mods/JustEnoughResources-Fabric-1.20.1-1.4.0.247.jar",
-      "hash": "5377fa98f9591b33092e4c7a6f6ba773365928a8"
+      "path": "mods/kotlinforforge-4.10.0-all.jar",
+      "hash": "5981310618ebe818177bb2a703f8a7fb01bc8efc"
     },
     {
       "path": "mods/lambdynamiclights-2.3.2+1.20.1.jar",
       "hash": "71b636fa74744e51ba2d248c81a38bdbfad5d43b"
     },
     {
-      "path": "mods/libIPN-fabric-1.20-4.0.2.jar",
-      "hash": "c8c4d93037efb226b6bd3264e33df4c010cb111b"
+      "path": "mods/libIPN-forge-1.20-4.0.2.jar",
+      "hash": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5"
+    },
+    {
+      "path": "mods/magiclib-all-0.7.398+fe2125a-stable.jar",
+      "hash": "1e9fe904c3526470c6f8457967ac31728fecccba"
     },
     {
       "path": "mods/malilib-fabric-1.20.1-0.16.3.jar",
       "hash": "94d4dd8a82e493d956b423019134d8c48ee737be"
     },
     {
-      "path": "mods/MiniHUD-Extra-0.1.0-mc1.20.1-fabric.jar",
-      "hash": "d92cd6550523e5dcdebc6200849f7922c16b9763"
+      "path": "mods/MasaGadget-all-3.2.334+08c8f70-stable.jar",
+      "hash": "7e159e99d4f1949980c8760441813e2dbaf15a1b"
     },
     {
       "path": "mods/minihud-fabric-1.20.1-0.27.0.jar",
@@ -110,32 +118,36 @@
       "hash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
     },
     {
-      "path": "mods/Searchables-fabric-1.20.1-1.0.2.jar",
-      "hash": "72f8ae2a31ccf95ed5d119abb8c3bcd174b63398"
+      "path": "mods/MyServerIsCompatible-1.20-1.0.jar",
+      "hash": "a53abcabc6c3531667049be249b3fb165aad5468"
     },
     {
-      "path": "mods/sodium-fabric-0.5.8+mc1.20.1.jar",
-      "hash": "bdd6b8ac84b46ae56a3bbb761ce430c48e42e00d"
+      "path": "mods/radium-mc1.20.1-0.12.3+git.50c5c33.jar",
+      "hash": "c498557a39250523a29a40678ae86f1c03d757c0"
     },
     {
-      "path": "mods/Steam_Rails-1.5.3+fabric-mc1.20.1.jar",
-      "hash": "90cd0296507dde0b0260cd24b33e042cfc990be9"
+      "path": "mods/Searchables-forge-1.20.1-1.0.2.jar",
+      "hash": "15548b2b50b700c0ffe2b9c4de80dfe510db208d"
     },
     {
-      "path": "mods/veinmining-fabric-1.4.0+1.20.1.jar",
-      "hash": "e07cc1838b8a1c057c8cfd35cd88b1cbe347a201"
+      "path": "mods/Steam_Rails-1.5.3+forge-mc1.20.1.jar",
+      "hash": "ed3611b9a6e947d93a7fdfaf4d6d037c17f5ec6e"
     },
     {
-      "path": "mods/voicechat-fabric-1.20.1-2.5.10.jar",
-      "hash": "6dc187c00dd1737dd0c10a8ae220fb55e37b3e2e"
+      "path": "mods/veinmining-forge-1.4.0+1.20.1.jar",
+      "hash": "2fac894378ae96f14c45b7b045b14896d61e5ab3"
     },
     {
-      "path": "mods/Xaeros_Minimap_24.0.3_Fabric_1.20.jar",
-      "hash": "62e0af29ffd984cbe5453ea2c4f64251c4c0f5fb"
+      "path": "mods/voicechat-forge-1.20.1-2.5.11.jar",
+      "hash": "0b3a9bb27107d458cf64c8bf9e119fa82602acae"
     },
     {
-      "path": "resourcepacks/Masa Family Bucket Translation Pack v1.0.3.zip",
-      "hash": "b3fb1435ab71ce482262b5a837225e396a78e300"
+      "path": "mods/XaerosWorldMap_1.38.1_Forge_1.20.jar",
+      "hash": "bbe64fd565ec7934ebe70ec7f8a8a17134a0f981"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_24.0.3_Forge_1.20.jar",
+      "hash": "9043f509ddece9a3993f16027493118726bd1e12"
     }
   ],
   "addons": [
@@ -144,8 +156,8 @@
       "version": "1.20.1"
     },
     {
-      "id": "fabric",
-      "version": "0.15.7"
+      "id": "forge",
+      "version": "47.2.23"
     }
   ]
 }
