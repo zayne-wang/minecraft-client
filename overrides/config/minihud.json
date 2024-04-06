@@ -172,7 +172,7 @@
     "infoBlockBreakSpeed": false,
     "infoBlockInChunk": false,
     "infoBlockPosition": true,
-    "infoBlockProperties": true,
+    "infoBlockProperties": false,
     "infoChunkPosition": false,
     "infoChunkSections": false,
     "infoChunkSectionsLine": false,
@@ -211,7 +211,7 @@
     "infoSprinting": false,
     "infoTileEntities": false,
     "infoTimeDayModulo": false,
-    "infoTimeIRL": true,
+    "infoTimeIRL": false,
     "infoTimeTotalModulo": false,
     "infoTimeWorld": false,
     "infoWorldTimeFormatted": true

@@ -1,13 +1,13 @@
 {
   "name": "Zayne的私服客户端",
   "author": "Zayne Wang",
-  "version": "1.5",
+  "version": "1.6",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/zayne-wang/minecraft-client/main",
   "files": [
     {
       "path": "config/minihud.json",
-      "hash": "6e628c043463efeee4c23eb3bbf4b797f8d14fb5"
+      "hash": "c0a90bc569da128be10bef48b92faecc82fe1429"
     },
     {
       "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -98,6 +98,10 @@
       "hash": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5"
     },
     {
+      "path": "mods/litematica-fabric-1.20.1-0.15.3.jar",
+      "hash": "427b04faee05fab436c52c3618e8e391a010b648"
+    },
+    {
       "path": "mods/magiclib-all-0.7.398+fe2125a-stable.jar",
       "hash": "1e9fe904c3526470c6f8457967ac31728fecccba"
     },
@@ -132,6 +136,14 @@
     {
       "path": "mods/Steam_Rails-1.5.3+forge-mc1.20.1.jar",
       "hash": "ed3611b9a6e947d93a7fdfaf4d6d037c17f5ec6e"
+    },
+    {
+      "path": "mods/syncmatica-1.20.1-0.3.10.jar",
+      "hash": "3ff836dd8c00b728fc566af30650418b2457642d"
+    },
+    {
+      "path": "mods/tweakeroo-fabric-1.20.1-0.17.1.jar",
+      "hash": "2a18f5905f9e10c6a3b45388b4401ec135b3b3cf"
     },
     {
       "path": "mods/veinmining-forge-1.4.0+1.20.1.jar",
