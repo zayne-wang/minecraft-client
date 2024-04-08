@@ -1,7 +1,7 @@
 {
   "name": "Zayne的私服客户端",
   "author": "Zayne Wang",
-  "version": "1.7",
+  "version": "1.8",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/zayne-wang/minecraft-client/main",
   "files": [
@@ -164,6 +164,14 @@
     {
       "path": "mods/voicechat-forge-1.20.1-2.5.11.jar",
       "hash": "0b3a9bb27107d458cf64c8bf9e119fa82602acae"
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "hash": "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+    },
+    {
+      "path": "mods/WorldEditCUI-1.20+01.jar",
+      "hash": "5f0676a7369999e7414e7b2ab4f90da1f51471d4"
     },
     {
       "path": "mods/XaerosWorldMap_1.38.1_Forge_1.20.jar",
