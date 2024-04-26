@@ -7,7 +7,7 @@
   "files": [
     {
       "path": "config/minihud.json",
-      "hash": "dc0de5d55973faac647599666d1ee4819de6b80b"
+      "hash": "faaf154288fed447254c32b32306bac0a6168bc5"
     },
     {
       "path": "mods/appleskin-fabric-mc1.20.1-2.5.1.jar",
@@ -68,6 +68,10 @@
     {
       "path": "mods/DynamicSurroundings-Fabric-1.20.1-0.3.3.jar",
       "hash": "71d6ba63d3f767da2dee09e5be38314decff9379"
+    },
+    {
+      "path": "mods/elytraslot-fabric-6.3.0+1.20.1.jar",
+      "hash": "8434372482be878e0d40542cd2cce09b6dfccf84"
     },
     {
       "path": "mods/fabric-api-0.92.1+1.20.1.jar",

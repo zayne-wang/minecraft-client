@@ -171,9 +171,9 @@
     "infoBiomeRegistryName": false,
     "infoBlockBreakSpeed": false,
     "infoBlockInChunk": false,
-    "infoBlockPosition": false,
+    "infoBlockPosition": true,
     "infoBlockProperties": false,
-    "infoChunkPosition": true,
+    "infoChunkPosition": false,
     "infoChunkSections": false,
     "infoChunkSectionsLine": false,
     "infoChunkUpdates": false,
@@ -442,7 +442,7 @@
       "keys": ""
     },
     "debugCollisionBoxEnabled": {
-      "keys": ""
+      "keys": "H,P"
     },
     "debugNeighborsUpdateEnabled": {
       "keys": ""
