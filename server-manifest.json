@@ -1,7 +1,7 @@
 {
   "name": "Zayne的私服客户端",
   "author": "Zayne Wang",
-  "version": "1.10.1",
+  "version": "1.11",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/zayne-wang/minecraft-client/main",
   "files": [
@@ -32,6 +32,10 @@
     {
       "path": "mods/carpet-extra-1.20-1.4.115.jar",
       "hash": "09f1aeb870393d9ee07d895b5a60c7594a0bddd5"
+    },
+    {
+      "path": "mods/charmofundying-fabric-6.5.0+1.20.1.jar",
+      "hash": "96d1e220f2697a0c2a63fca8eca2b1690d14ca4e"
     },
     {
       "path": "mods/clientcommands-2.8.5.jar",
