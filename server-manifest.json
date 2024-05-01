@@ -1,7 +1,7 @@
 {
   "name": "Zayne的私服客户端",
   "author": "Zayne Wang",
-  "version": "1.10",
+  "version": "1.10.1",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/zayne-wang/minecraft-client/main",
   "files": [
@@ -118,8 +118,8 @@
       "hash": "3ce9c570f522711718221041607204a0affb2350"
     },
     {
-      "path": "mods/jecharacters-1.20.1-forge-4.5.4.jar",
-      "hash": "0f5ba6b4e049e85551603972d293e58cc0524f47"
+      "path": "mods/jecharacters-1.20.1-fabric-4.5.6.jar",
+      "hash": "28977e8a82422dc7c2a4e768eb9b7deac24b076b"
     },
     {
       "path": "mods/jei-1.20.1-fabric-15.3.0.4.jar",
